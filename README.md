@@ -20,4 +20,4 @@ Go version >= 1.8.
  - `FORMACION_ACADEMICA_CRUD__SCHEMA`: Esquema a utilizar en la base de datos
  Ejemplo: ORMACION_ACADEMICA_HTTP_PORT=8095 FORMACION_ACADEMICA_CRUD__PGUSER=postgres FORMACION_ACADEMICA_CRUD__PGPASS=password FORMACION_ACADEMICA_CRUD__PGURLS=localhost FORMACION_ACADEMICA_CRUD__PGDB=local FORMACION_ACADEMICA_CRUD__SCHEMA=core_new bee run
  ## MODELO
-![image](https://drive.google.com/file/d/11SSbxM6SGCz0I-FFE0125URCm9txi6oX/view).
+![image](https://github.com/udistrital/formacion_academica_crud/blob/dev/modelo_formacion_academica.png).
